@@ -1,11 +1,11 @@
-About r-ggeasy
-==============
+About r-ggeasy-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggeasy-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/jonocarroll/ggeasy
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggeasy-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides a series of aliases to commonly used but difficult to remember 'ggplot2' sequences.
 
