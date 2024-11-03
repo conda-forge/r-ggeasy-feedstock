@@ -1,4 +1,4 @@
-{% set version = "0.1.4" %}
+{% set version = "0.1.5" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,10 +9,10 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/ggeasy_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/ggeasy/ggeasy_{{ version }}.tar.gz
-  sha256: 20b762407eeb121178e6db3c1e910b1a8a0bde4978fe13fe5dde643f9d63f7b6
+  sha256: 2655c7cc266e67b13cbb586c984d2c049affb237b67543dc7757b64a4b98ddc6
 
 build:
-  number: 2
+  number: 0
   noarch: generic
   rpaths:
     - lib/R/lib/
